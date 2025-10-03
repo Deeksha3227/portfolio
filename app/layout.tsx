@@ -11,8 +11,7 @@ import { Suspense } from "react"
 
 export const metadata: Metadata = {
   title: "DEEKSHA|PORTFOLIO",
-  description: "Created with v0",
-  generator: "v0.app",
+  description: "prrtfolio",
 }
 
 export default function RootLayout({
