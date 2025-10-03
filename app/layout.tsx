@@ -10,7 +10,7 @@ import { ScrollRevealProvider } from "@/components/scroll-reveal"
 import { Suspense } from "react"
 
 export const metadata: Metadata = {
-  title: "v0 App",
+  title: "DEEKSHA|PORTFOLIO",
   description: "Created with v0",
   generator: "v0.app",
 }
